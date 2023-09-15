@@ -1,8 +1,17 @@
-# Upload.ai_front_end
+# Upload.ai (Front End) [:us: Video Tutorial](https://www.youtube.com/watch?v=dVNYoW7_m1A) | [:brazil: Video Tutorial](https://www.youtube.com/watch?v=CRXL5d8ZSx8)
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Upload.ai_front_end?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/Upload.ai_front_end">
+
+   <a href="https://github.com/GianDutra/Upload.ai_front_end/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Upload.ai_front_end">
+  </a>
+  
+</p>
+<img src="./.github/1.png" alt="video-transcription-with-AI" title="Upload.ai_front_end">
 > A project developed during the Next Level Week AI edition by Rocketseat.  The main goal of the project is to allow users to upload videos and automatically generate attractive titles and descriptions using AI, ensuring good indexing.
-
-![Screenshot](1/screenshot.png)
 
 ## Tech Stack
 
