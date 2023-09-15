@@ -47,10 +47,10 @@ Before you start, make sure you have the following installed:
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:GianDutra/video-transcription-with-AI.git
+$ git clone git@github.com:GianDutra/Upload.ai_front_end.git
 
 # Access the project folder in your terminal
-$ cd video-transcription-with-AI
+$ cd Upload.ai_front_end
 
 # Install the dependencies
 $ npm install
