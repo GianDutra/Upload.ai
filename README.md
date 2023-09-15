@@ -31,17 +31,46 @@ Before you start, make sure you have the following installed:
 - [Node.js](https://nodejs.org/en/)
 - [Git](https://git-scm.com)
 
-### Installation
+ 
+## 🚀 Installing Upload.ai
 
+ 
 ```bash
+
 # Clone this repository
-$ git clone git@github.com:YOUR_USERNAME/upload.ai.git
+$ git clone git@github.com:GianDutra/video-transcription-with-AI.git
 
 # Access the project folder in your terminal
-$ cd upload.ai
+$ cd video-transcription-with-AI
 
 # Install the dependencies
 $ npm install
 
-# Run the application
-$ npm start
+# Run the application in developer mode
+$ npm run dev
+
+# Run the node server in developer mode
+$ npm run server
+
+# The app will open by default on port: 5173 - go to http://localhost:5173/
+
+```
+
+
+---
+
+
+## 👨‍💼 Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/GianDutra.png" width="100px;" alt="Foto do Gian no GitHub"/><br>
+        <sub>
+          <b>Gian Dutra</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
