@@ -1,4 +1,4 @@
-# Upload.ai (Front End) [:us: Video Tutorial](https://www.youtube.com/watch?v=dVNYoW7_m1A) | [:brazil: Video Tutorial](https://www.youtube.com/watch?v=CRXL5d8ZSx8)
+# Upload.ai(Front End) [:us: Video Tutorial](https://www.youtube.com/watch?v=dVNYoW7_m1A) | [:brazil: Video Tutorial](https://www.youtube.com/watch?v=CRXL5d8ZSx8)
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Upload.ai_front_end?color=%2304D361">
