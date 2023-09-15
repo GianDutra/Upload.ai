@@ -58,8 +58,17 @@ $ npm install
 # Run the application in developer mode
 $ npm run dev
 
-# Run the node server in developer mode
-$ npm run server
+# Run the node server in developer mode (backend code is in the other repository)
+$ npm run dev
+
+# Run Prisma migration 
+$ npx prisma migrate dev
+
+# Seed the database with prompts
+$ npx prisma db seed
+
+# Run Prisma Studio for database management
+$ npx prisma studio
 
 # The app will open by default on port: 5173 - go to http://localhost:5173/
 
