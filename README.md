@@ -58,7 +58,8 @@ $ npm install
 # Run the application in developer mode
 $ npm run dev
 
-# Run the node server in developer mode (backend code is in the other repository -> (https://github.com/GianDutra/Upload.ai_back_end)
+# Run the node server in developer mode (backend code is in the other repository ->
+(https://github.com/GianDutra/Upload.ai_back_end)
 $ npm run dev
 
 # Run Prisma migration 
