@@ -35,4 +35,19 @@
   body {
     @apply bg-background text-foreground;
   }
+  /* Personalizando a barra de rolagem */
+@layer base {
+  ::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de rolagem */
+  }
+
+  ::-webkit-scrollbar-track {
+    background: var(--background); /* Cor do fundo da barra de rolagem */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #0077b6; /* Cor azul oceano para o polegar da barra de rolagem */
+    border-radius: var(--radius); /* Raio do canto do polegar */
+  }
+}
 }
